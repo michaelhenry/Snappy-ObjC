@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         =  'Snappy'
-  s.version      =  '1.1.0'
+  s.version      =  '2.0'
   s.license      =  'MIT'
   s.summary      =  'A port of snappy-c to Objective-C.'
   s.description  =  'Google\'s Snappy compression power as NSData/NSString categories.'
